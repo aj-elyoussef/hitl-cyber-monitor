@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI](https://github.com/YOUR_GITHUB_USERNAME/hitl-cyber-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/hitl-cyber-monitor/actions/workflows/ci.yml)
+[![CI](https://github.com/aj-elyoussef/hitl-cyber-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/aj-elyoussef/hitl-cyber-monitor/actions/workflows/ci.yml)
 
 Claude analyses suspicious SSH log entries, your phone asks you **Yes** or **No**,
 and only an allowlisted, code-defined defensive action can run.
@@ -149,7 +149,7 @@ You need Python 3.10 or later and Git.
 macOS / Linux:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/hitl-cyber-monitor.git
+git clone https://github.com/aj-elyoussef/hitl-cyber-monitor.git
 cd hitl-cyber-monitor
 python3 -m venv .venv
 source .venv/bin/activate
@@ -159,7 +159,7 @@ pip install -r requirements-dev.txt
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/YOUR_GITHUB_USERNAME/hitl-cyber-monitor.git
+git clone https://github.com/aj-elyoussef/hitl-cyber-monitor.git
 cd hitl-cyber-monitor
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
