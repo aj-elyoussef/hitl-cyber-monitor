@@ -1,0 +1,4 @@
+# Runtime dependencies. Keep in sync with pyproject.toml.
+anthropic>=2.0,<3
+requests>=2.32,<3
+python-dotenv>=1.0,<2
